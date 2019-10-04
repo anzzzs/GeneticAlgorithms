@@ -1,2 +1,2 @@
-# Genetic-Algorithms
+# Genetic Algorithms
 Оптимизация архитектуры нейронной сети
